@@ -1,4 +1,7 @@
+.DS_Store
+
 # Custom Folders and Files
+.secret
 .env.secret
 data/
 
